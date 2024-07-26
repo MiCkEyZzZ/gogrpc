@@ -3,7 +3,7 @@
 ## Запуск локально
 
 ```
-git clone https://github.com/mickeyzzz/gogrpc.git
+git clone https://github.com/MiCkEyZzZ/gogrpc
 cd server
 go run server.go
 cd client
